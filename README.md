@@ -29,6 +29,12 @@ Back-end:
 - Django REST framework.
 - Python и Jupyter Notebook | Panoply Nasa App.
 
+## Исследовательские ресуры
+- https://www.usgs.gov/
+- https://lpdaac.usgs.gov/
+- https://search.earthdata.nasa.gov/search?q=EMIT
+- https://www.youtube.com/watch?v=XzSEqdiS2aE&t=755s&ab_channel=NASAEarthdata
+
 ## Установка
 /*Пока недоступно*/
 
