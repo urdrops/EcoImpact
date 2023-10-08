@@ -1,24 +1,7 @@
 from django.urls import path
-from .views import get_names
+from .views import get_models
 
 
 urlpatterns = [
-    path('names/', get_names, name='get_names'),
+    path('names/', get_models, name='get_names'),
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

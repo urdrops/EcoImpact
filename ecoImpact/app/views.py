@@ -1,11 +1,9 @@
-from django.http import JsonResponse,HttpResponse
+from django.http import JsonResponse
 
 
-def get_names(request):
-    # names = ["Hello", "World"]
-    # data = {"names": names}
-    # return JsonResponse(data)
-    str = "Nastya gey"
-    res = HttpResponse(str,content_type="text/plain")
-    return res
+def get_models(request):
+    names = 'Test'
+    data = {"names": names}
+    return JsonResponse(data)
+
 
