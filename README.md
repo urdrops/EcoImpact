@@ -26,9 +26,9 @@ Mobile App:
 - Retrofit.
 
 Back-end:
-- Django Framework: Этот фреймворк был и будет использован для написания серверной части проекта.
-- Django REST framework: Данный фреймворк также был и будет использован для создания API, позволяющего клиентам обмениваться данными с сервером.
-- Python и Jupyter Notebook | Panoply Nasa App: Эти инструменты были использованы для анализа датасетов, взятых из NASA.
+- Django Framework.
+- Django REST framework.
+- Python и Jupyter Notebook | Panoply Nasa App.
 
 ## Установка
 /*Пока недоступно*/
